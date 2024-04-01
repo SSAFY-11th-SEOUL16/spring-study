@@ -3,11 +3,13 @@
 <img src="https://github.com/SSAFY-11th-SEOUL16/spring-study/assets/70849467/72fbfe34-6477-4442-a95f-54c23645f891" width="600">
 
 - **⏰ 스터디 일시**: 매주 화요일 6시 ~ 8시 (24.02.01 ~ 24.05.31 예정)
-- **🏫 스터디 장소**: 
+- **🏫 스터디 장소**:
 - **📚 스터디 자료**: [토비의 스프링](https://product.kyobobook.co.kr/detail/S000000935360) | [인프런 강의 - 토비의 스프링 부트 - 이해와 원리](https://www.inflearn.com/course/%ED%86%A0%EB%B9%84-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EC%9D%B4%ED%95%B4%EC%99%80%EC%9B%90%EB%A6%AC)
 
 ---
+
 ## 🎯 스터디 목표
+
 - 웹 과정 수업을 위한 예습
 - 토비의 스프링 3.1 완독
 
@@ -26,7 +28,7 @@
 
 - **질문 5개 이상** 준비해요.
 - 퀴즈 형식으로 만들어도 좋고, 같이 토론할만한 질문이어도 좋아요.
-- 질문은 **구글폼**을 통해 받아요. 
+- 질문은 **구글폼**을 통해 받아요.
 
 ### 📌 올리는 방법
 
@@ -75,12 +77,12 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/HOAN-C" target="_blank">
+      <a href="https://github.com/cookingTorch" target="_blank">
         정현우
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/isaac8570" target="_blank">
+      <a href="https://github.com/sem1308" target="_blank">
         한수한
       </a>
     </td>
